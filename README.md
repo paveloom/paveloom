@@ -1,7 +1,10 @@
 <div align="center">
 
+  <!-- Work in progress notice -->
+  <p><i>WIP: some things are broken, this is being resolved.</i></p>
+
   <!-- A little word of notice before the showcase -->
-  <p><i>There are fried pancakes and black cats glitching, but that's okay.</i></p>
+  <p><i>There are fried pancakes and black cats glitching, that's okay.</i></p>
 
   <h3>Personal</h3>
 
