@@ -64,7 +64,7 @@
         class="header"
         data-testid="header"
       >
-        <a href="https://github.com/Paveloom"><tspan class="owner">Paveloom</tspan></a><tspan>/B1</tspan>
+        <tspan class="owner">Paveloom</tspan><tspan>/B1</tspan>
       </text>
     </g>
   </g>
@@ -117,12 +117,7 @@
           Makefile
         </text>
       </g>
-
-      <g
-        data-testid="star-fork-group"
-        transform="translate(125, 0)"
-      >
-      </g>
     </g>
   </g>
 </svg>
+

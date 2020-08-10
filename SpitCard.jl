@@ -27,6 +27,39 @@ function spit_card(
         "<tspan>$repo_name</tspan>"
     end
 
+    archived_badge = if archived
+        """\n
+            <g
+              data-testid="badge"
+              class="badge"
+              transform="translate(300, -1.5)"
+            >
+              <rect
+                stroke="#333"
+                stroke-width="1"
+                width="60"
+                height="20"
+                x="-12"
+                y="-14"
+                ry="10"
+                rx="10">
+              </rect>
+
+              <text
+                x="18" y="-5"
+                alignment-baseline="central"
+                dominant-baseline="central"
+                text-anchor="middle"
+                fill="#333"
+              >
+                Archived
+              </text>
+            </g>
+        """
+    else
+        ""
+    end
+
     open(output_path, "w") do io
 
         println(io, """
@@ -98,7 +131,7 @@ function spit_card(
               >
                 $header
               </text>
-            </g>
+            </g>$(archived_badge[1:end-1])
           </g>
 
           <g
@@ -149,19 +182,12 @@ function spit_card(
                   $primary_lang
                 </text>
               </g>
-
-              <g
-                data-testid="star-fork-group"
-                transform="translate(125, 0)"
-              >
-              </g>
             </g>
           </g>
         </svg>
         """)
 
     end
-
 
 end
 

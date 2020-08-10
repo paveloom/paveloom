@@ -1,14 +1,22 @@
 <div align="center">
 
+<!-- https://raw.githubusercontent.com/Paveloom/Paveloom/master/ -->
+
   <a href="#">
-    <img src="https://raw.githubusercontent.com/Paveloom/Paveloom/master/levitate.gif" width="300px">
+    <img style="max-width: 50%" src="./levitate.gif">
   </a>
 
-  <div>
-  <!-- <a href="https://github.com/Paveloom/B1"> -->
-    <img src="https://raw.githubusercontent.com/Paveloom/Paveloom/master/repos/B1.svg" width="300px">
-  <!-- </a> -->
-  </div>
+  <details>
+    <summary>
+      Browse Repos
+    </summary>
+    <br>
+    <div>
+      <a href="https://github.com/Paveloom/B1">
+        <img src="./repos/B1.svg">
+      </a>
+    </div>
+  </details>
 <br>
 <br>
 <br>
