@@ -3,7 +3,7 @@
 <!-- https://raw.githubusercontent.com/Paveloom/Paveloom/master/ -->
 
   <a href="#">
-    <img style="max-width: 50%" src="./levitate.gif">
+    <img width="50%" src="./levitate.gif">
   </a>
 
   <details>
@@ -11,6 +11,7 @@
       Browse Repos
     </summary>
     <br>
+    <h3>Minor</h3>
     <div>
       <a href="https://github.com/Paveloom/B1">
         <img src="./repos/B1.svg">
