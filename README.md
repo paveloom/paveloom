@@ -16,6 +16,9 @@
       <a href="https://github.com/Paveloom/B1">
         <img src="./repos/B1.svg">
       </a>
+      <a href="https://github.com/Paveloom/B5">
+        <img src="./repos/B5.svg">
+      </a>
     </div>
   </details>
 <br>
