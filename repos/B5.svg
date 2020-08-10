@@ -64,7 +64,7 @@
         class="header"
         data-testid="header"
       >
-        <tspan>B5</tspan>
+        <tspan class="owner">paveloom-m</tspan><tspan>/B5</tspan>
       </text>
     </g>
 

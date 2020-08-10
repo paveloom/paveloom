@@ -1,12 +1,18 @@
 module SpitCard
 
-export spit_card
+export spitcard
 
 const primary_langs = Dict{String, String}([
     "Makefile" => "#427819",
+    "Fortran" => "#4d41b1",
+    "R" => "#198CE7",
+    "Python" => "#3572A5",
+    "PostScript" => "#da291c",
+    "Shell" => "#89e051",
+    "Julia" => "#a270ba",
 ])
 
-function spit_card(
+function spitcard(
     repo_name::AbstractString,
     primary_lang::AbstractString,
     line_1::AbstractString = "",

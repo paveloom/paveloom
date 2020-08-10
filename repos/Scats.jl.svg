@@ -64,7 +64,7 @@
         class="header"
         data-testid="header"
       >
-        <tspan class="owner">paveloom-m</tspan><tspan>/B1</tspan>
+        <tspan class="owner">paveloom-j</tspan><tspan>/Scats.jl</tspan>
       </text>
     </g>
   </g>
@@ -82,14 +82,14 @@
         dy="1.2em"
         x="25"
       >
-        Шаблоны make-файлов для компиляции программ
+        Spectral correlation analysis of time series
       </tspan>
 
       <tspan
         dy="1.2em"
         x="25"
       >
-        и публикации кода на GitHub
+        (not supposed to be used)
       </tspan>
 
     </text>
@@ -106,7 +106,7 @@
           cx="0"
           cy="-5"
           r="6"
-          fill="#427819"
+          fill="#a270ba"
         />
 
         <text
@@ -114,7 +114,7 @@
           class="gray"
           x="15"
         >
-          Makefile
+          Julia
         </text>
       </g>
     </g>

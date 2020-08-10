@@ -64,7 +64,34 @@
         class="header"
         data-testid="header"
       >
-        <tspan class="owner">paveloom-m</tspan><tspan>/B1</tspan>
+        <tspan class="owner">paveloom-p</tspan><tspan>/P8</tspan>
+      </text>
+    </g>
+
+    <g
+      data-testid="badge"
+      class="badge"
+      transform="translate(300, -1.5)"
+    >
+      <rect
+        stroke="#333"
+        stroke-width="1"
+        width="60"
+        height="20"
+        x="-12"
+        y="-14"
+        ry="10"
+        rx="10">
+      </rect>
+
+      <text
+        x="18" y="-5"
+        alignment-baseline="central"
+        dominant-baseline="central"
+        text-anchor="middle"
+        fill="#333"
+      >
+        Archived
       </text>
     </g>
   </g>
@@ -82,14 +109,14 @@
         dy="1.2em"
         x="25"
       >
-        Шаблоны make-файлов для компиляции программ
+        Процедуры и программы с курса астрономического
       </tspan>
 
       <tspan
         dy="1.2em"
         x="25"
       >
-        и публикации кода на GitHub
+        программного обеспечения, 6-ой семестр
       </tspan>
 
     </text>
@@ -106,7 +133,7 @@
           cx="0"
           cy="-5"
           r="6"
-          fill="#427819"
+          fill="#da291c"
         />
 
         <text
@@ -114,7 +141,7 @@
           class="gray"
           x="15"
         >
-          Makefile
+          PostScript
         </text>
       </g>
     </g>
