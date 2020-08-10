@@ -38,7 +38,7 @@ function spitcard(
             <g
               data-testid="badge"
               class="badge"
-              transform="translate(300, -1.5)"
+              transform="translate(310, -1.5)"
             >
               <rect
                 stroke="#333"

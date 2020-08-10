@@ -1,7 +1,5 @@
 <div align="center">
 
-  <!-- https://raw.githubusercontent.com/Paveloom/Paveloom/master/ -->
-
   <a href="#">
     <img
       width="50%"
@@ -78,7 +76,7 @@
       </a>
     </div>
   </details>
-<br>
-<br>
+
+  <br><br>
 
 </div>
