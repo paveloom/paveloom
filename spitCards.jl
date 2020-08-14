@@ -121,6 +121,14 @@ begin
         repo_owner = "paveloom-d",
     )
 
+    spitcard(
+        "binder-base",
+        "Shell",
+        "Yet another base image for Binder";
+        show_owner = true,
+        repo_owner = "paveloom-d",
+    )
+
 end
 
 # Julia

@@ -59,6 +59,9 @@
       <a href="https://github.com/paveloom-d/dev">
         <img src="https://raw.githubusercontent.com/Paveloom/Paveloom/master/repos/dev.svg">
       </a>
+      <a href="https://github.com/paveloom-d/binder-base">
+        <img src="https://raw.githubusercontent.com/Paveloom/Paveloom/master/repos/binder-base.svg">
+      </a>
     </div>
     <h3>Julia</h3>
     <div>
