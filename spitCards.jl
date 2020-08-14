@@ -5,7 +5,7 @@ using .SpitCard
 begin
 
     spitcard(
-        "B1",
+        "Makefiles",
         "Makefile",
         "Шаблоны make-файлов для компиляции программ",
         "и публикации кода на GitHub";
@@ -14,7 +14,7 @@ begin
     )
 
     spitcard(
-        "B5",
+        "QtSettingsDemo",
         "Makefile",
         "Генератор файла settings: демонстрация графического",
         "интерфейса, созданного средствами Qt в среде Qt Creator";

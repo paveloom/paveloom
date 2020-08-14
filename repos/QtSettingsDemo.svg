@@ -64,7 +64,34 @@
         class="header"
         data-testid="header"
       >
-        <tspan class="owner">paveloom-m</tspan><tspan>/B1</tspan>
+        <tspan class="owner">paveloom-m</tspan><tspan>/QtSettingsDemo</tspan>
+      </text>
+    </g>
+
+    <g
+      data-testid="badge"
+      class="badge"
+      transform="translate(310, -1.5)"
+    >
+      <rect
+        stroke="#333"
+        stroke-width="1"
+        width="60"
+        height="20"
+        x="-12"
+        y="-14"
+        ry="10"
+        rx="10">
+      </rect>
+
+      <text
+        x="18" y="-5"
+        alignment-baseline="central"
+        dominant-baseline="central"
+        text-anchor="middle"
+        fill="#333"
+      >
+        Archived
       </text>
     </g>
   </g>
@@ -82,14 +109,14 @@
         dy="1.2em"
         x="25"
       >
-        Шаблоны make-файлов для компиляции программ
+        Генератор файла settings: демонстрация графического
       </tspan>
 
       <tspan
         dy="1.2em"
         x="25"
       >
-        и публикации кода на GitHub
+        интерфейса, созданного средствами Qt в среде Qt Creator
       </tspan>
 
     </text>

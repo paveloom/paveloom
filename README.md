@@ -14,11 +14,11 @@
     <br>
     <h3>Minor</h3>
     <div>
-      <a href="https://github.com/paveloom-m/B1">
-        <img src="https://raw.githubusercontent.com/Paveloom/Paveloom/master/repos/B1.svg">
+      <a href="https://github.com/paveloom-m/Makefiles">
+        <img src="https://raw.githubusercontent.com/Paveloom/Paveloom/master/repos/Makefiles.svg">
       </a>
-      <a href="https://github.com/paveloom-m/B5">
-        <img src="https://raw.githubusercontent.com/Paveloom/Paveloom/master/repos/B5.svg">
+      <a href="https://github.com/paveloom-m/QtSettingsDemo">
+        <img src="https://raw.githubusercontent.com/Paveloom/Paveloom/master/repos/QtSettingsDemo.svg">
       </a>
     </div>
     <h3>Packs</h3>
