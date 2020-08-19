@@ -64,7 +64,7 @@
         class="header"
         data-testid="header"
       >
-        <tspan class="owner">paveloom-d</tspan><tspan>/binder-base</tspan>
+        <tspan class="owner">paveloom-d</tspan><tspan>/binder-tex</tspan>
       </text>
     </g>
   </g>
@@ -82,7 +82,7 @@
         dy="1.2em"
         x="25"
       >
-        Yet another base image for Binder
+        Basically, `paveloom/binder-base` + TeX dependencies.
       </tspan>
 
       <tspan

@@ -127,6 +127,16 @@ begin
         "Yet another base image for Binder";
         show_owner = true,
         repo_owner = "paveloom-d",
+        template = true,
+    )
+
+    spitcard(
+        "binder-tex",
+        "Shell",
+        "Basically, `paveloom/binder-base` + TeX dependencies.";
+        show_owner = true,
+        repo_owner = "paveloom-d",
+        template = true,
     )
 
 end
