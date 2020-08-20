@@ -133,7 +133,7 @@ begin
     spitcard(
         "binder-tex",
         "Shell",
-        "Basically, `paveloom/binder-base` + TeX dependencies.";
+        "Basically, `paveloom/binder-base` + TeX dependencies";
         show_owner = true,
         repo_owner = "paveloom-d",
         template = true,
@@ -142,7 +142,7 @@ begin
     spitcard(
         "binder-julia",
         "Shell",
-        "Basically, `paveloom/binder-base` + Julia.";
+        "Basically, `paveloom/binder-base` + Julia";
         show_owner = true,
         repo_owner = "paveloom-d",
         template = true,
