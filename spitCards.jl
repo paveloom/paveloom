@@ -139,6 +139,15 @@ begin
         template = true,
     )
 
+    spitcard(
+        "binder-julia",
+        "Shell",
+        "Basically, `paveloom/binder-base` + Julia.";
+        show_owner = true,
+        repo_owner = "paveloom-d",
+        template = true,
+    )
+
 end
 
 # Julia

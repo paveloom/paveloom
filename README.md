@@ -67,6 +67,9 @@
       <a href="https://github.com/paveloom-d/binder-tex">
         <img src="https://raw.githubusercontent.com/Paveloom/Paveloom/master/repos/binder-tex.svg">
       </a>
+      <a href="https://github.com/paveloom-d/binder-julia">
+        <img src="https://raw.githubusercontent.com/Paveloom/Paveloom/master/repos/binder-julia.svg">
+      </a>
     </div>
     <h3>Julia</h3>
     <div>
