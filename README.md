@@ -71,6 +71,11 @@
         <img src="https://raw.githubusercontent.com/Paveloom/Paveloom/master/repos/binder-julia.svg">
       </a>
     </div>
+    <div>
+      <a href="https://github.com/paveloom-d/binder-julia-plots">
+        <img src="https://raw.githubusercontent.com/Paveloom/Paveloom/master/repos/binder-julia-plots.svg">
+      </a>
+    </div>
     <h3>Julia</h3>
     <div>
       <a href="https://github.com/paveloom-j/Scats.jl">

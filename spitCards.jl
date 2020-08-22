@@ -148,6 +148,16 @@ begin
         template = true,
     )
 
+    spitcard(
+        "binder-julia-plots",
+        "Shell",
+        "If `paveloom/binder-julia` and `paveloom/binder-tex`",
+        "had a baby";
+        show_owner = true,
+        repo_owner = "paveloom-d",
+        template = true,
+    )
+
 end
 
 # Julia
