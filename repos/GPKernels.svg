@@ -64,34 +64,7 @@
         class="header"
         data-testid="header"
       >
-        <tspan class="owner">paveloom-p</tspan><tspan>/P8</tspan>
-      </text>
-    </g>
-
-    <g
-      data-testid="badge"
-      class="badge"
-      transform="translate(310, -1.5)"
-    >
-      <rect
-        stroke="#333"
-        stroke-width="1"
-        width="60"
-        height="20"
-        x="-12"
-        y="-14"
-        ry="10"
-        rx="10">
-      </rect>
-
-      <text
-        x="18" y="-5"
-        alignment-baseline="central"
-        dominant-baseline="central"
-        text-anchor="middle"
-        fill="#333"
-      >
-        Archived
+        <tspan class="owner">paveloom-c</tspan><tspan>/GPKernels</tspan>
       </text>
     </g>
   </g>
@@ -109,14 +82,14 @@
         dy="1.2em"
         x="25"
       >
-        Процедуры и программы с курса астрономического
+        Study of the influence of selection of kernels for
       </tspan>
 
       <tspan
         dy="1.2em"
         x="25"
       >
-        программного обеспечения, 6-ой семестр
+        Gaussian processes on the modeling of light curves
       </tspan>
 
     </text>
@@ -133,7 +106,7 @@
           cx="0"
           cy="-5"
           r="6"
-          fill="#DA291C"
+          fill="#DA5B0B"
         />
 
         <text
@@ -141,7 +114,7 @@
           class="gray"
           x="15"
         >
-          PostScript
+          Jupyter Notebook
         </text>
       </g>
     </g>

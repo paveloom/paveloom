@@ -197,4 +197,13 @@ begin
         archived = true,
     )
 
+    spitcard(
+        "GPKernels",
+        "Jupyter Notebook",
+        "Study of the influence of selection of kernels for",
+        "Gaussian processes on the modeling of light curves";
+        show_owner = true,
+        repo_owner = "paveloom-c",
+    )
+
 end

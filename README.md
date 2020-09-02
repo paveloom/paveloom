@@ -91,6 +91,11 @@
         <img src="https://raw.githubusercontent.com/Paveloom/Paveloom/master/repos/C3.svg">
       </a>
     </div>
+    <div>
+      <a href="https://github.com/paveloom-c/GPKernels">
+        <img src="https://raw.githubusercontent.com/Paveloom/Paveloom/master/repos/GPKernels.svg">
+      </a>
+    </div>
   </details>
 
   <br><br>

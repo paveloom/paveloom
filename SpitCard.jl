@@ -4,12 +4,13 @@ export spitcard
 
 const primary_langs = Dict{String, String}([
     "Makefile" => "#427819",
-    "Fortran" => "#4d41b1",
+    "Fortran" => "#4D41B1",
     "R" => "#198CE7",
     "Python" => "#3572A5",
-    "PostScript" => "#da291c",
-    "Shell" => "#89e051",
-    "Julia" => "#a270ba",
+    "PostScript" => "#DA291C",
+    "Shell" => "#89E051",
+    "Julia" => "#A270BA",
+    "Jupyter Notebook" => "#DA5B0B",
 ])
 
 function spitcard(
