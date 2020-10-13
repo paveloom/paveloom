@@ -82,14 +82,14 @@
         dy="1.2em"
         x="25"
       >
-        Export highlights from PDF files to a CSV file
+        Export highlights from PDF files to a CSV file with one call
       </tspan>
 
       <tspan
         dy="1.2em"
         x="25"
       >
-        using one command
+        
       </tspan>
 
     </text>

@@ -175,8 +175,8 @@ begin
     spitcard(
         "PDFHighlights.jl",
         "Julia",
-        "Export highlights from PDF files to a CSV file",
-        "using one command";
+        "Export highlights from PDF files to a CSV file with one call",
+        "";
         show_owner = true,
         repo_owner = "paveloom-j",
     )
