@@ -81,6 +81,9 @@
       <a href="https://github.com/paveloom-j/Scats.jl">
         <img src="https://raw.githubusercontent.com/Paveloom/Paveloom/master/repos/Scats.jl.svg">
       </a>
+      <a href="https://github.com/paveloom-j/PDFHighlights.jl">
+        <img src="https://raw.githubusercontent.com/Paveloom/Paveloom/master/repos/PDFHighlights.jl.svg">
+      </a>
     </div>
     <h3>Complex</h3>
     <div>

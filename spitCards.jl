@@ -172,6 +172,15 @@ begin
         repo_owner = "paveloom-j",
     )
 
+    spitcard(
+        "PDFHighlights.jl",
+        "Julia",
+        "Export highlights from PDF files to a CSV file",
+        "using one command";
+        show_owner = true,
+        repo_owner = "paveloom-j",
+    )
+
 end
 
 # Complex
