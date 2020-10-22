@@ -181,6 +181,15 @@ begin
         repo_owner = "paveloom-j",
     )
 
+    spitcard(
+        "Exceptions.jl",
+        "Julia",
+        "Easy exception creation",
+        "";
+        show_owner = true,
+        repo_owner = "paveloom-j",
+    )
+
 end
 
 # Complex
