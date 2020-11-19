@@ -170,6 +170,7 @@ begin
         "(not supposed to be used)";
         show_owner = true,
         repo_owner = "paveloom-j",
+        archived = true,
     )
 
     spitcard(
