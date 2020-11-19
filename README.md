@@ -89,6 +89,9 @@
       <a href="https://github.com/paveloom-j/Exceptions.jl">
         <img src="https://raw.githubusercontent.com/Paveloom/Paveloom/master/repos/Exceptions.jl.svg">
       </a>
+      <a href="https://github.com/paveloom-j/HillRegions.jl">
+        <img src="https://raw.githubusercontent.com/Paveloom/Paveloom/master/repos/HillRegions.jl.svg">
+      </a>
     </div>
     <h3>Complex</h3>
     <div>

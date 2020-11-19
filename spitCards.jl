@@ -191,6 +191,15 @@ begin
         repo_owner = "paveloom-j",
     )
 
+    spitcard(
+        "HillRegions.jl",
+        "Julia",
+        "A recipe to plot Hill regions",
+        "";
+        show_owner = true,
+        repo_owner = "paveloom-j",
+    )
+
 end
 
 # Complex
