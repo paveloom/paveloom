@@ -82,14 +82,14 @@
         dy="1.2em"
         x="25"
       >
-        A Docker image containing my personal
+        An OCI compliant image containing
       </tspan>
 
       <tspan
         dy="1.2em"
         x="25"
       >
-        development environment
+        my personal development environment
       </tspan>
 
     </text>

@@ -115,8 +115,8 @@ begin
     spitcard(
         "dev",
         "Shell",
-        "A Docker image containing my personal",
-        "development environment";
+        "An OCI compliant image containing",
+        "my personal development environment";
         show_owner = true,
         repo_owner = "paveloom-d",
     )
