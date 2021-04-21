@@ -6,7 +6,11 @@
     >
   </a>
   <div>
-    [ <a rel="noopener nofollow noreferrer" target="_blank" href="https://paveloom.github.io/git/">Browse repos</a> ]
+    [ <a rel="noopener nofollow noreferrer"
+         target="_blank"
+         href="https://paveloom.github.io/git/"
+         style="color: #626262;">Browse repos
+      </a> ]
   </div>
   <br><br>
 </div>
